@@ -1,0 +1,108 @@
+body{
+
+    background-image: linear-gradient(to right, #ff5722, #ff9809);
+    margin-top: 150px;
+    padding-top: 100px;
+
+
+
+}
+
+.register-left{
+
+    text-align: center;
+    color: white;
+    padding: 30px;
+
+}
+
+
+.register-left p {
+
+    padding: 20px 20px 0;
+
+}
+
+.register-left .btn-primary{
+
+    border-radius: 1.5em;
+    border: none;
+    width: 120px;
+    background: #f8f8f8;
+    font-weight: 600;
+    color: #555;
+    margin-top:20px;
+    padding: 10px;
+}
+
+.register-left .btn-primary:hover{
+    
+    background-color: #000;
+}
+
+
+
+
+.register-right{
+
+    border: none;
+    background:#f8f8f8;
+    border-top-left-radius: 10% 50%;
+    border-bottom-left-radius: 10% 50%;
+    padding: 50px;
+
+}
+
+
+.register-right h3{
+
+    text-align:center;
+    margin-bottom: 10px;
+    color: #555;
+
+
+}
+
+
+
+.register-form{
+
+
+    padding: 30px;
+}
+
+
+
+.register-right .btn-primary{
+
+    border-radius: 1.5em;
+    border: none;
+    width: 120px;
+    background: #ff9800;
+    font-weight: 600;
+    color: #fff;
+    margin-top:20px;
+    padding: 10px;
+    float:right;
+}
+
+.register-right .btn-primary:hover{
+    
+    background-color: #ff5722;
+}
+
+
+#imagemFlexa{
+
+    height: 20px;
+    animation: mover 1s infinite alternate;
+
+}
+
+
+@keyframes mover{ 
+    0%{ transform: translateX(0);}
+    100%{transform: translateY(10);}
+}
+
+
