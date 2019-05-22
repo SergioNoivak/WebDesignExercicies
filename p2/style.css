@@ -1,0 +1,101 @@
+
+
+
+.home-header{
+    background: #2196f3;
+    color: #fff;
+
+}
+
+.home-header .row{
+    padding-top: 10px;
+    padding-bottom: 15%;
+}
+
+.promo-text-box{
+    margin-top: 15%;
+}
+
+.promo-text-box h1{
+
+    margin-bottom: 25px;
+}
+.play-btn{
+
+    width: 25px;
+    margin:20px;
+}
+
+.lead-form{
+
+    width: 350px;
+    background: #fff;
+    margin:10px auto;
+    border-radius: 3px;
+    
+}
+
+.title-box{
+    background-color: #1065b6;
+    height: 150px;
+    padding-top: 30px;
+    border-bottom-left-radius: 200px 50px;
+    border-bottom-right-radius: 200px 50px;
+    
+    
+}
+
+
+form label{
+    float: center;
+    margin-left: 37px;
+    color:#999;
+    margin-top: 15px;
+    margin-bottom: 3px;
+    font-size: 14px; 
+
+}
+
+.button-submit{
+
+    width: 280px;
+    height: 60px;
+    color:#fff;
+    font-weight: 600;
+    background-color: #1065b6;
+    border:none;
+    border-radius: 3px;
+    margin-top: 20px;
+    cursor:pointer;
+    margin-bottom: -30px;
+    
+
+}
+
+.button-submit:hover{
+
+    width: 280px;
+    height: 60px;
+    color:#fff;
+    font-weight: 600;
+    background-color: #0f5494;
+    border:none;
+    border-radius: 3px;
+    margin-top: 20px;
+    cursor:pointer;
+    margin-bottom: -30px;
+    
+
+}
+
+
+
+.input-form{
+    width: 280px;
+    height: 40px;
+    padding: 0 5px;
+    
+
+
+
+}
